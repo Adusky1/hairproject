@@ -20,8 +20,38 @@ color: rgb(39, 42, 88);
 font-size: 45px;
 
 }
+.menust{
+    font-size: 35px; 
+    font-weight: bold;   
+    color: rgb(39, 42, 88);
+}
+.menust:hover{
+    font-size: 35px; 
+    font-weight: bold;   
+    color: rgb(37, 129, 75);   
+}
+.imgsz{width:35% ;
+height: 35%;
+}
+.imgcent{
+   display: flex; 
+    justify-content: center;
 
 
+}
+.imgcentsz{width:25% ;
+    height: 25%;
+    display: flex; 
+    justify-content: center;
+
+
+}
+
+.sertext{
+font-size: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
 p{color: rgb(12, 14, 11);
     font-size: 35px;
     text-align: center;
